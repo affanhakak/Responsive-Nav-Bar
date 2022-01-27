@@ -4,10 +4,8 @@
   box-sizing: border-box;
 }
 
-body {
-  background-image: url(xps-kLfkVa_4aXM-unsplash.jpg);
+img {
   background-size: cover;
-  background-repeat: no-repeat;
 }
 
 nav {
